@@ -11,7 +11,7 @@ IBM Cognos Analytics documentation for training v11.1.x
 9. Working with widget connections 
 10. Creating a story 
 11. Sharing dashboards and stories 
-12.IBM Cognos Analytics Advanced 
+12. IBM Cognos Analytics Advanced 
 13. Creating a report from scratch
 14. Adding data sources
 15. Working with SQL queries
