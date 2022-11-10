@@ -24,8 +24,8 @@ IBM Cognos provides a wide range of features and can be considered as an enterpr
 </p>
 <li>IBM Cognos Analytics features</li>
 <ul>
-  <li>Connect your data effortlessly
-Import data from CSV files and spreadsheets. Connect to cloud or on-premises data sources, including SQL databases, Google BigQuery, Amazon, Redshift, and more.</li>
+  <li>Connect your data effortlessly<b>
+Import data from CSV files and spreadsheets. Connect to cloud or on-premises data sources, including SQL databases, Google BigQuery, Amazon, Redshift, and more.  Basically, you can connect to <b>ANYTHING</b>!  And that ain't hyperbolly!</li>
   </ul>
   
 <li>Preparing the Development Environment</li>
