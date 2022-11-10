@@ -242,3 +242,9 @@ ul.list-styles2 {
       margin: 0 auto;
       width: 40%;
     }
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+  font: 15px;
+}
