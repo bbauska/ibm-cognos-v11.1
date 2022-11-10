@@ -43,8 +43,8 @@ Keep your stakeholders up-to-date, automatically. Create and share dynamic perso
     Make confident  data decisions
 Get deeper insights without a data science background. Validate what you know, identify what you don't with statistically accurate time-series forecasting and pinpoint patterns to consider. </li>
   <li>Stay connected<br>
-<a href="https://mediacenter.ibm.com/id/1_fkz9wn5s">Go mobile.      
-Stay connected on the go with the new mobile app. Access data and get alerts right from your phone, 24/7.</a></li>
+<li>Go mobile<br>
+Stay connected on the go with the new mobile app. Access data and get alerts right from your phone, 24/7.  <a href="https://mediacenter.ibm.com/id/1_fkz9wn5s">Watch the video(02:15)</li>
   </ul>
   
 <li>Preparing the Development Environment</li>
