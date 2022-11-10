@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IBM Cognos v11.1.x</title>
+</head>
+<body>
+
 <h1>ibm-cognos-v11.1.x</h1>
 <h2>IBM Cognos Analytics documentation for training v11.1.x</h2>
 <h3>
@@ -26,3 +33,6 @@ IBM Cognos provides a wide range of features and can be considered as an enterpr
 <li>17. Summary and Conclusion</li>
 </ol>
 </h3>
+  </body>
+  </html>
+ 
