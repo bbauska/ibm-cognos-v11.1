@@ -36,14 +36,13 @@ Identify patterns<br>
     Uncover hidden patterns
 Ask the AI assistant a question in plain language, and see the answer in a visualization. Use time series modeling to predict seasonal trends.</li>
   <li>Generate personalized reports<br>
-    
 Create and deliver personalized reports
 Keep your stakeholders up-to-date, automatically. Create and share dynamic personalized, multi-page reports in the formats your stakeholders want.</li>
   <li>Gain insights<br>
-    Make confident  data decisions
+    <a href="https://mediacenter.ibm.com/id/1_9937nhbc">Make confident data decisions</a>.
 Get deeper insights without a data science background. Validate what you know, identify what you don't with statistically accurate time-series forecasting and pinpoint patterns to consider. </li>
   <li>Stay connected<br>
-<li>Go mobile<br>
+    <b>Go mobile</b>
 Stay connected on the go with the new mobile app. Access data and get alerts right from your phone, 24/7.  <a href="https://mediacenter.ibm.com/id/1_fkz9wn5s">Watch the video(02:15)</li>
   </ul>
   
