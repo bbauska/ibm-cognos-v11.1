@@ -26,20 +26,22 @@ IBM Cognos provides a wide range of features and can be considered as an enterpr
 <ul>
   <li>Connect your data effortlessly<br>
 Import data from CSV files and spreadsheets. Connect to cloud or on-premises data sources, including SQL databases, Google BigQuery, Amazon, Redshift, and more.  Basically, you can connect to <b>ANYTHING</b>!  And that ain't hyperbolly!</li>
-<li>Prepare and connect data automatically<br>
-Save time cleaning your data with AI-assisted data preparation. Clean and prep data from multiple sources, add calculated fields, join data, and create new tables.</li>
+<li>Prepare your data<br>
+  <a href="https://mediacenter.ibm.com/id/1_f7lecy4h">Prepare and connect data automatically</a><br>
+Save time cleaning your data with AI-assisted data preparation.<br>
+  Clean and prep data from multiple sources, add calculated fields, join data, and create new tables.</li>
 <li>Build visualizations<br>
-Create dynamic dashboards easily<br>
+  <a href="https://mediacenter.ibm.com/id/1_jwnm7ajw">Create dynamic dashboards easily</a><br>
 Quickly create compelling, interactive dashboards. Drag and drop data to create auto-generated visualizations, drill down for more detail, and share using email or Slack.</li>
   <li>
 Identify patterns<br>
-    Uncover hidden patterns
+    <a href="https://mediacenter.ibm.com/id/1_n66rv63n">Uncover hidden patterns</a><br>
 Ask the AI assistant a question in plain language, and see the answer in a visualization. Use time series modeling to predict seasonal trends.</li>
   <li>Generate personalized reports<br>
-Create and deliver personalized reports
+    <a href="https://mediacenter.ibm.com/id/1_1jq2djsj">Create and deliver personalized reports</a><br>
 Keep your stakeholders up-to-date, automatically. Create and share dynamic personalized, multi-page reports in the formats your stakeholders want.</li>
   <li>Gain insights<br>
-    <a href="https://mediacenter.ibm.com/id/1_9937nhbc">Make confident data decisions</a>.
+    <a href="https://mediacenter.ibm.com/id/1_9937nhbc">Make confident data decisions</a>.<br>
 Get deeper insights without a data science background. Validate what you know, identify what you don't with statistically accurate time-series forecasting and pinpoint patterns to consider. </li>
   <li>Stay connected<br>
     <b>Go mobile</b>
