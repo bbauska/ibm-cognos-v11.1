@@ -26,6 +26,8 @@ IBM Cognos provides a wide range of features and can be considered as an enterpr
 <ul>
   <li>Connect your data effortlessly<br>
 Import data from CSV files and spreadsheets. Connect to cloud or on-premises data sources, including SQL databases, Google BigQuery, Amazon, Redshift, and more.  Basically, you can connect to <b>ANYTHING</b>!  And that ain't hyperbolly!</li>
+<li>Prepare and connect data automatically
+Save time cleaning your data with AI-assisted data preparation. Clean and prep data from multiple sources, add calculated fields, join data, and create new tables.</li>
   </ul>
   
 <li>Preparing the Development Environment</li>
