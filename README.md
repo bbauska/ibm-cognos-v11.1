@@ -1,5 +1,6 @@
 <h1>ibm-cognos-v11.1.x</h1>
 <h2>IBM Cognos Analytics documentation for training v11.1.x</h2>
+<h3>
 <ol>
   <li>What is IBM Cognos Analytics?</li>
   <li>IBM Cognos Analytics features </li>
@@ -19,3 +20,4 @@
 <li>Creating and using prompts</li>
 <li>17. Summary and Conclusion</li>
 </ol>
+</h3>
