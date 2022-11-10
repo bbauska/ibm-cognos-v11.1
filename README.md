@@ -37,7 +37,7 @@ IBM Cognos provides a wide range of features and can be considered as an enterpr
 <li>Adding data sources</li>
 <li>Working with SQL queries</li>
 <li>Creating and using prompts</li>
-<li>17. Summary and Conclusion</li>
+<li>Summary and Conclusion</li>
 </ol>
 </div>
 </h3>
