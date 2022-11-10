@@ -1,6 +1,8 @@
-# ibm-cognos-v11.1
-IBM Cognos Analytics documentation for training v11.1.x
-1. What is IBM Cognos Analytics?
+<h1>ibm-cognos-v11.1</h1>
+<h2>IBM Cognos Analytics documentation for training v11.1.x</h2>
+<ol>
+  <li>What is IBM Cognos Analytics?</li>
+</ol>
 
 2. IBM Cognos Analytics features 
 3. Preparing the Development Environment 
