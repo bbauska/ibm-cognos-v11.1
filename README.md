@@ -3,12 +3,14 @@
 <h3>
 <ol>
   <li>What is IBM Cognos Analytics?</li>
+  </h3>
+  <h4>
   <p>
     IBM Cognos Business Intelligence is a web based reporting and analytic tool. It is used to perform data aggregation and create user friendly detailed reports. Reports can contain Graphs, Multiple Pages, Different Tabs and Interactive Prompts. These reports can be viewed on web browsers, or on hand held devices like tablets and smartphones.
 Cognos also provides you an option to export the report in XML or PDF format or you can view the reports in XML format. You can also schedule the report to run in the background at specific time period so it saves the time to view the daily report as you don’t need to run the report every time.
 IBM Cognos provides a wide range of features and can be considered as an enterprise software to provide flexible reporting environment and can be used for large and medium enterprises. It meets the need of Power Users, Analysts, Business Managers and Company Executives. Power users and analysts want to create ad hoc reports and can create multiple views of the same data. Business Executives want to see summarize data in dashboard styles, cross tabs and visualizations. Cognos allows both the options for all set of users.
-  </p>
-  <li>IBM Cognos Analytics features </li>
+    </p></h4>
+<h3>  <li>IBM Cognos Analytics features </li>
 <li>Preparing the Development Environment</li>
 <li>Setting up IBM Cognos Analytics</li>
 <li>IBM Cognos Analytics Fundamentals</li>
