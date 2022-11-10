@@ -1,10 +1,8 @@
-<h1>ibm-cognos-v11.1</h1>
+<h1>ibm-cognos-v11.1.x</h1>
 <h2>IBM Cognos Analytics documentation for training v11.1.x</h2>
 <ol>
   <li>What is IBM Cognos Analytics?</li>
-</ol>
-
-2. IBM Cognos Analytics features 
+  <li>2. IBM Cognos Analytics features </li>
 3. Preparing the Development Environment 
 4. Setting up IBM Cognos Analytics 
 5. IBM Cognos Analytics Fundamentals 
@@ -20,3 +18,4 @@
 15. Working with SQL queries
 16. Creating and using prompts
 17. Summary and Conclusion
+</ol>
