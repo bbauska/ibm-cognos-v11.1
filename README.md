@@ -23,6 +23,11 @@ Cognos also provides you an option to export the report in XML or PDF format or 
 IBM Cognos provides a wide range of features and can be considered as an enterprise software to provide flexible reporting environment and can be used for large and medium enterprises. It meets the need of Power Users, Analysts, Business Managers and Company Executives. Power users and analysts want to create ad hoc reports and can create multiple views of the same data. Business Executives want to see summarize data in dashboard styles, cross tabs and visualizations. Cognos allows both the options for all set of users.
 </p>
 <li>IBM Cognos Analytics features</li>
+<ul>
+  <li>Connect your data effortlessly
+Import data from CSV files and spreadsheets. Connect to cloud or on-premises data sources, including SQL databases, Google BigQuery, Amazon, Redshift, and more.</li>
+  </ul>
+  
 <li>Preparing the Development Environment</li>
 <li>Setting up IBM Cognos Analytics</li>
 <li>IBM Cognos Analytics Fundamentals</li>
