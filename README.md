@@ -6,13 +6,9 @@
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- title: IBM Cognos v11.1.x ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
+<div class="myDiv">
 <h1>ibm-cognos-v11.1.x</h1>
 <h2>IBM Cognos Analytics documentation for training v11.1.x</h2>
-
-<div class="myDiv">
-  <h2>This is a heading in a div element</h2>
-  <p>This is some text in a div element.</p>
-<!------------------------------------------------------------------------------------------------>
 <ol>
   <li>What is IBM Cognos Analytics?</li>
   <p style="color:red;">
