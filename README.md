@@ -9,6 +9,11 @@
 <div class="myDiv">
 <h1>ibm-cognos-v11.1.x</h1>
 <h2>IBM Cognos Analytics documentation for training v11.1.x</h2>
+  
+  <a href="https://www.ibm.com/docs/en/cognos-analytics/11.2.0?topic=whats-new">For everything new in Cognos Analytics</a>
+
+<a href="https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=features-whats-new-in-planning-analytics-workspace">For everything new in Planning Analytics</a>
+  
 <ol>
   <li>What is IBM Cognos Analytics?</li>
   <p style="color:darkgreen;">
