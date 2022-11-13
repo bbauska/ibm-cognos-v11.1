@@ -147,7 +147,6 @@ Changes that you make in either the Manage interface or the Administration conso
   
 <li>Creating, extending, and updating modules</li>
 Overview of IBM Cognos Analytics
-Overview of IBM Cognos Analytics
 New Features
 Introduction to Dashboards
 What is a Dashboard
@@ -211,15 +210,55 @@ Examine Badges
 Create Decision Trees and Key Driver Analysis
 Create Advanced Explorations
 Overview of IBM Cognos Analytics
-Overview of IBM Cognos Analytics
 New Features
 Introduction to Data Modules
+
 What is a Data Module
+Data modules are containers that describe data and rules for combining and shaping data to prepare it for analysis and visualization in Cognos® Analytics. Data modules are saved in Team content or My content.
+
+When you create a new data module from the home screen of IBM® Cognos Analytics, you are presented with five possible input sources in Sources. These sources are described here.
+<ul>
+<li>Data modules<br>
+Data modules are source objects that contain data from data servers, uploaded files, or other data modules, and are saved in My content or Team content.</li>
+<li>Data servers<br>
+Data servers are databases for which connections exist. For more information, see Managing IBM Cognos Analytics .</li>
+<li>Uploaded files<br>
+Uploaded files are data that are stored with the Upload files facility.</li>
+<li>Data sets<br>
+Data sets contain extracted data from a package or a data module, and are saved in My content or Team content.</li>
+<li>Packages<br>
+Packages are created in IBM Cognos Framework Manager and contain dimensions, query subjects, and other data contained in Cognos Framework Manager projects. You can use packages as sources for a data module.</li>
+</ul>
+
+You can combine multiple sources into one data module. After you add a source,
+click Add sources (Add a data source.) in Selected sources to add another source. You can use a combination of data source types in a data module.
+
+Each type of data source is described in the following topics.
+
+Using a data module source
+Saved data modules can be used as data sources for other data modules. When a data module is used as a source for another data module, parts of that module are copied into the new data module.
+Using a data server source
+Data servers are databases for which connections exist and can be used as sources for data modules.
+Using an uploaded file source
+Uploaded files are data that is stored with the Upload files facility. You can use these files as sources for a data module.
+Using a data set source
+Data sets contain data that is extracted from a package or a data module, and are saved in My content or Team content.
+Using a package source
+Packages are created in IBM Cognos Framework Manager. You can use relational, dynamic query mode packages as sources for data modules.
+Creating a simple data module
+You can create a simple data module based on the Great Outdoors Warehouse sales database that is included in IBM Cognos Analytics extended samples.
+Relinking sources
+You can relink a data module source to a different source. After a successful relink, global calculations and relationships in the data module remain valid.
+
+
+
 Requirements and Assumptions for Data Modules
 Data Sources
 Upload Files
 Create a simple module with an uploaded file
+
 Data Modules with Multiple Sources
+
 Why Use Multiple Data Files in a Data Module
 How to Add Multiple Files to a Data Module
 Understand Joins & Cardinality
