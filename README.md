@@ -50,18 +50,32 @@ Stay connected on the go with the new mobile app. Access data and get alerts rig
   </ul>
   
 <li>Preparing the Development Environment</li>
+
 <li>Setting up IBM Cognos Analytics</li>
+
 <li>IBM Cognos Analytics Fundamentals</li>
+
 <li>Creating dashboards</li>
+
 <li>Creating, extending, and updating modules</li>
+
 <li>Visualizing data</li>
+
 <li>Working with widget connections</li>
+
 <li>Creating a story</li>
+
 <li>Sharing dashboards and stories</li>
+
 <li>IBM Cognos Analytics Advanced</li>
-<li>Creating a report from scratch</li>
+
+<li>Creating a report from scratch<br>
+<a href="https://www.ibm.com/docs/en/cognos-analytics/11.0.0?topic=reporting-getting-started-in-cognos-analytics#understand_rs">Reporting - getting started</li>
+
 <li>Adding data sources</li>
+
 <li>Working with SQL queries</li>
+
 <li>Creating and using prompts</li>
 <li>Summary and Conclusion</li>
 </ol>
