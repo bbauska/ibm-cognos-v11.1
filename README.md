@@ -52,6 +52,48 @@ Stay connected on the go with the new mobile app. Access data and get alerts rig
     
   <a href="https://mediacenter.ibm.com/id/1_fkz9wn5s">Watch the video(02:15)</li>
 </ul>
+  <h4>Top Ten Cognos and Planning Analytics Features in 2022</h4>
+  <ul>
+  <li>10. Learn Panel in Cognos and Planning Analytics.  IBM spent considerable resources on the quality and usefulness of documentation on both products.  The learn panel is intuitive, gets you answers quickly and even suggests things to view as you look something up.  It includes webpages, videos, tutorials, and documents.  Let’s say you need to figure out a rule in Planning Analytics or how to set up bursting in Cognos Analytics.  Simply start typing in the learn panel and watch the magic happen.</li>
+  <li>9. Insights in Visualization using Analytics Panel in Cognos Analytics.  Insights in visualizations provide analytic insights that can help users to detect and validate any important relationships and meaningful differences based on the data that is presented by the visualization.  The type of insights depends on the displayed data by the visualization.  Available types of insights are Average, Predictive strength, Meaningful Differences, Fit Line, and Most Frequent.  Average provides the mean of the displayed summaries, and most frequent the category or category that appears most often in the data.  The rest of the insights depend on more advanced analytics and statistical tests.  The goal is to provide reliable information that you can use for an enhanced description of the viewed data and discovery of any relationships that are expected to be found in the population that is represented by this data. </li>
+  <li>8. Explorations in Cognos Analytics.  Explore is a flexible workspace where you can discover and analyze data.  You can also explore an existing visualization from a dashboard or story, uncover hidden relationships and identify patterns that turn your data into insights.  Correlated insights are represented by a green icon with a number on the x-axis, y-axis, or the title of a chart.  Ok that was the technical speak.  Now for my thoughts.  At first, I didn’t really get why explorations could be powerful or why you would even use it.  After spending some time really getting to understand how explorations can work and how much effort IBM has put into improving them, I’m a big fan.  Simple case, select 2 points of your data and let the system tell you what to start to look at.  Pin that information and quickly use it in a dashboard.  Speaking of pins.  This is 8.1 of my favorite things in Cognos Analytics.  Pinning visualizations allows you to save information and use it across Cognos Analytics in a quick and efficient way.</li>
+  <li>7. Planning Analytics for Excel (PAFe) in Planning Analytics.  Everyone loves Excel!  With PAfe you can have an excel experience in Planning Analytics while exploring data, reporting or inputting data.  You can create several different items in PAFe.
+
+ Explorations – slice and dice your data
+Static – Create a report that is disconnected from the PA database and send to anyone
+Dynamic – Create presentation style reports and also create data input files
+Custom – Start from scratch and build what you want.
+    By the way, whatever you create in PAFe, you can publish to Planning Analytics Workspace</li>
+  <li>6. Data Models and Data Sets in Cognos Analytics.  You can use data modeling in Cognos Analytics to fuse together many sources of data, including relational databases, Hadoop-based technologies, Microsoft Excel spreadsheets, text files, and so on.  Using these sources, a data module is created that can then be used in reports, dashboards, or explorations.  Data sets are customized collections of data items that you use frequently.  As you make updates to the data set, the dashboards, stories, or explorations that use that data set are also updated the next time you run them.  You can create data sets from packages or data modules, and use as sources to create dashboards, stories, explorations, and data modules.</li>
+  <li>5. Navigation Paths and Relative Time in Cognos Analytics.  To expand on your Dashboards and Reports using data models and data sets, use navigation paths and relative time.
+
+Navigation Paths – provide a drill up and down feature to your data.  In data models or dashboards simply click on the navigation path area and create your drill path.  Go from Country, to State, to City with clicks of a button in your data and visualizations.
+Relative Time – with a few clicks of a button create YTD, QTD, MTD, last month, current month and so many more relative time filters in your data to be used across Cognos.</li>
+    <li>4. Dashboards in Cognos Analytics.  Dashboards in Cognos Analytics has come a long way over time and especially in the last year.  First, with Cognos Analytics version 11.2.1 the speed to render improved signficantly.  IBM has added in a ton of formatting enhancmenets from colors, fonts and the like.  There are many new visualizations that compete with other BI products available and you can now export the dashboard to a PDF document.  All things considered I believe Cognos Analytics dashboards compete and exceed any BI product available!</li>
+    <li>3. Applications and Plans in Planning Analytics.  Applications and Plans have seen significant enhancements in 2022.  Honestly, Planning Analytics Workspace has improved so much that it is imperative you own it and use it.</li>
+    <li>2. AI Assistant in Cognos Analytics.  The AI assistant is game changing for Cognos Analytics.  It has gained so many enhancements over the past year that if you are not using this, you are missing out.  In Cognos Analytics version 11.2.2 and 11.2.3, the AI assistant added in time specific filtering.  Things like:
+
+ Show sales this Thursday
+Show sales between last Monday and last Wednesday
+Show me sales for camping equipment from June 1-5
+What is the total income between Halloween and Christmas
+Show sales for 2021
+Show October 2021 sales by product
+YTD, QTD, MTD and abbreviations like Mon for Monday and Thur for Thursday and Xmas for Christmas to narrow your search in the assistant.
+Type in “Show quantity between 1/1/20 and 2/29/20” and let the system generate visualizations based on what you typed. </li>
+    <li>1. Workspace in Planning Analytics.  Finally, my favorite feature in Cognos and Planning Analytics is Workspace.  IBM has done an excellent job with Workspace in Planning Analytics and I’m going to spend a little time on why you should be using this.  And if you don’t already own it, why you should reach out to us at sales@lodestarsolutions.com to discuss adding this to your license entitlements.
+
+IBM Planning Analytics Workspace is a web-based interface for IBM Planning Analytics with Watson™.  It provides an interface to TM1® data, with ways to plan, create, and analyze your content.
+
+Planning Analytics Workspace helps you focus on the things that matter to your business. Using Planning Analytics Workspace, you can identify and understand patterns and relationships in data.  You can use this information to understand why things happen and predict what might happen. Planning Analytics Workspace opens the world of advanced analytics to all business users.
+
+IBM has spent an enormous amount of time building Workspace to be your A to Z space to build models, input data, analyze data and reports.
+
+Over the past year IBM introduced the Workbench in Workspace.  This is the main area for modelers to create TI processes, dimensions, cubes, rules and everything else you need to build your models.  Those of you who build models in Architect remember having multiple windows open to simply create a cube.  Now with the Workbench you have a flexible space that allows multiple windows open in one place adding great efficiency to the model building task.</li>
+    
+    
+  
+  </ul>
   
 <li>Preparing the Development Environment</li>
 
@@ -62,29 +104,29 @@ Create report views for reports without opening the Reporting component.
 Create shortcuts to reports, dashboards, stories, or data modules.
 Set access permissions.
 Start creating new content such as reports, dashboards, or stories by clicking New New icon.
-Reporting
+  <h4><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=reporting-getting-started-in-cognos-analytics">Reporting</a></h4>
 Create and edit a wide range of professional reports. Use templates or customize your reports with prompts, bursting, advanced charts and visualizations.
 You enter the IBM Cognos Analytics - Reporting user interface from the Cognos Analytics portal by opening an existing report from Team content or My content, or by clicking New New icon, and then Report.
 
-  <h4Dashboards and stories</h4>
+  <h4><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=stories-get-started-dashboards">Dashboards and stories</a></h4>
 View, monitor, and communicate data insights and analysis with dashboards or stories. You can assemble a view that contains visualizations such as graphs, charts, plots, tables, maps, or any other visual representation of data. Enrich dashboards and stories with web pages and other content.
 You enter the IBM Cognos Analytics dashboards or stories user interface from the Cognos Analytics portal by opening an existing dashboard from Team content or My content, or by clicking New New icon, and then Dashboard or Story.
 
-  <h4>Explorations</h4>
+  <h4><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=explorations-">Explorations</a></h4>
 Explore is a flexible workspace where you can discover and analyze data. You can also explore an existing visualization from a dashboard or story. Uncover hidden relationships and identify patterns that turn your data into insights.
 
 You enter the IBM Cognos Analytics Exploration user interface from the Cognos Analytics portal by opening an existing Exploration from Team content or My content, or by clicking New New icon, and then Exploration.
 
-  <h4>Notebooks</h4>
+  <h4><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=notebook-getting-started">Notebooks</a></h4>
 If IBM Cognos Analytics Jupyter Notebook is enabled in Cognos Analytics, you can work with notebook documents, also referred to as notebooks, much like with other content in Cognos Analytics.
 You enter the notebook user interface from the Cognos Analytics portal by opening an existing notebook from Team content or My content, or by clicking New New icon, and then Notebook.
 
-  <h4>Data modules</h4>
+  <h4><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=modules-data-modeling-in-cognos-analytics">Data modules</a></h4>
 Modelers and administrators create data modules and make them available to users for use with reports, dashboards, or stories. You can use the IBM Cognos Analytics web modeling interface to quickly create data modules from various sources, such as data servers, uploaded files, packages, and previously saved data modules. The tool is intent-driven and AI-infused and generates a data module by using keywords that you define.
 You enter the IBM Cognos Analytics web modeling user interface from the Cognos Analytics portal by opening an existing data module from Team content or My content, or by clicking New New icon, and then Data module.
 For more information, see the Cognos Analytics Data Modeling Guide.
 
-  <h4>Manage and administer</h4>
+  <h4><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=managing-people">Manage</a> and <a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=asg-introduction">administer</a></h4>
 Create and manage accounts (users, groups, and roles), schedules, or data server connections. Perform configuration tasks, and customize the product experience and user interface.
   
 You enter the IBM Cognos Analytics administration user interface from the Cognos Analytics portal by clicking Manage, and then selecting the tabs that represent the different administration areas, such as Data server connections or Configuration. To access the legacy administration tool for more options, tap Administration console.
