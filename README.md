@@ -143,26 +143,133 @@ Changes that you make in either the Manage interface or the Administration conso
 
 <li>Creating dashboards</li>
 
+  <a href="https://support.google.com/analytics/answer/1068218?hl=en#zippy=%2Cin-this-article">Creating and customizing dashboards</a>
+  
 <li>Creating, extending, and updating modules</li>
-
+Overview of IBM Cognos Analytics
+Overview of IBM Cognos Analytics
+New Features
+Introduction to Dashboards
+What is a Dashboard
+Data Sources for Dashboards
+Data Modules, Packages, Uploaded Files
+Introduction to Predictive Presentations
+Creating a Dashboard
+Creating Complex Dashboards
+Multi-Page Dashboards
+Tabbed Dashboards
+Applying Filters
+Adding Calculations
+Applying Formatting to a Dashboard
+Deploying and Maintaining Dashboards
+Sharing Dashboards with Other Users
+Exporting Content
+Modifying Visualizations
+Updating Source Information in Dashboards
+Introduction to Stories
+What is a Story
+Story Requirements
+Differences between Stories and Dashboards
+Creating Stories
+Visualizations, Creating Scenes, Templates and Pinned Items
+Data Sources for Stories
+Creating a Multi-Scene Story
+Relationship between Scene Objects and Relationship between Scenes
+Add Media and Websites to a Scene
+Modify timelines in stories
+Overview of IBM Cognos Analytics
+Overview of IBM Cognos Analytics
+New Features
+Introduction to Stories
+What is a Story
+Story Requirements
+Differences between Stories and Dashboards
+Creating Simple Stories
+Creating and Designing Stories
+Importing Data for Stories
+Visualizations, Creating Scenes, Templates and Pinned Items
+Data Sources for Stories
+Creating a Multi-Scene Story
+Relationship between Scene Objects and Relationship between Scenes
+Add Media and Websites to a Scene
+Deploying Stories to Users
+Updating and Maintaining Stories
+Update Data Sources for Stories
+Modify Visualizations
+Overview of IBM Cognos Analytics
+Overview of IBM Cognos Analytics
+New Features
+Introduction to Explorations
+What is an Exploration
+Requirements for Explorations
+The interface and relationship diagram
+Upload files
+Use the Assistant
+Explore Data
+Create and pin visualizations
+Examine Badges
+Create Decision Trees and Key Driver Analysis
+Create Advanced Explorations
+Overview of IBM Cognos Analytics
+Overview of IBM Cognos Analytics
+New Features
+Introduction to Data Modules
+What is a Data Module
+Requirements and Assumptions for Data Modules
+Data Sources
+Upload Files
+Create a simple module with an uploaded file
+Data Modules with Multiple Sources
+Why Use Multiple Data Files in a Data Module
+How to Add Multiple Files to a Data Module
+Understand Joins & Cardinality
+Assumptions in Multi-Source Data Modules
+Creating Calculations, Custom Groups and Navigation Path
+Create calculations
+Create custom groups
+Create and use navigation paths
+Using Data Modules in Reports & Dashboards
+Sharing Data Modules with Other Users
+Author Reports with Data Modules
+Create a Dashboard with a Data Module
+Maintaining Data Modules
+Updating Data Modules
+Updating Source Files
+Data Module Maintenance
+  
 <li>Visualizing data</li>
 
 <li>Working with widget connections</li>
-
+Widget Action Buttons
+  https://www.ibm.com/docs/en/cognos-analytics/10.2.2?topic=SSEP7J_10.2.2/com.ibm.swg.ba.cognos.ug_rtm_db.10.2.2.doc/c_widg_tool_bar.html
+  
 <li>Creating a story</li>
-
+Cognos 11 (Cognos Analytics) - Stories - YouTube
+  https://www.youtube.com/watch?v=b_N3eubhSMU
+  
+  
 <li>Sharing dashboards and stories</li>
+  Dashboards and stories  https://www.ibm.com/docs/en/cognos-analytics/11.0.0?topic=started-dashboards-stories
+  
+  Example Dashboarding with Parms  https://medium.com/dssimplified/dashboards-and-data-story-telling-explained-98817da168c5
 
 <li>IBM Cognos Analytics Advanced</li>
-
+Principles of advanced data analytics  https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=dashboards-principles-advanced-data-analytics
+A BRIEF GUIDE TO ADVANCED COGNOS ANALYTICS  https://www.existbi.com/blog/a-brief-guide-to-advanced-cognos-analytics/
+  
 <li>Creating a report from scratch<br>
 <a href="https://www.ibm.com/docs/en/cognos-analytics/11.0.0?topic=reporting-getting-started-in-cognos-analytics#understand_rs">Reporting - getting started</li>
 
 <li>Adding data sources</li>
-
+https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=explorations-adding-data-source
+  
 <li>Working with SQL queries</li>
-
+  <a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=queries-working-in-sql">Working with Queries in SQL</a>
+  
 <li>Creating and using prompts</li>
+
+  <a href="https://www.youtube.com/watch?v=MpT6-CyTOQA">Prompt And Prompt Page (Basics) in Reports, using IBM Cognos Analytics 11.1 R6</a>
+  
 <li>Summary and Conclusion</li>
 </ol>
 </div>
